@@ -5,3 +5,5 @@ console.log(number);
  number.unshift(5);
  number.indexOf(30);
  number.includes(70);
+console.log(number);
+number.reverse(46);
