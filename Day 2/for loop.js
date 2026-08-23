@@ -13,5 +13,8 @@ for (let key in student){
 */
 
 
-let f={"mango","peaches","litchi" ,"banana"}
+let f=["mango","peaches","litchi" ,"banana"]
 
+for (cont fruits of f ){
+    console.log(fruits); 
+}
